@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratorio3</string>
+    <string name="nombre"><b>Andrea Guadalupe Plascencia Rodríguez</b></string>
+    <string name="email"><b>andrea.plascencia\@uaz.edu.mx</b></string>
+    <string name="telefono"><b>+52 467 100 1982</b></string>
+    <string name="origen"><b>Juchipila Zacatecas</b></string>
+    <string name="nacimiento"><b>02 de Agosto del 2000</b></string>
+    <string name="descripcion"><b>Soy estudiante de la carrera de Ingeniería en Tecnologías Computacionales en
+        la Universidad Autónoma de Zacatecas “Francisco García Salina” Campus Jalpa, actualmente curso
+    el sexto semestre en el cual me interesan varias de las materias que tengo cargadas.</b></string>
+</resources>
